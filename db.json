@@ -1,51 +1,53 @@
-[
-  {
-    "id": 1,
-    "title": "Hôtel Sezz Paris",
-    "latitude": 48.856634,
-    "longitude": 2.285261,
-    "stars": 4.4,
-    "image_url1": "https://wa4.jetcdn.com/photos/hotel-sezz-paris/XlAPSJgX/bath-bedroom-elegant-hip.jpeg?w=970&h=600&dpr=1", 
-    "image_url2": "https://cdn.ostrovok.ru/t/1024x768/mec/hotels/1000000/10000/5300/5297/5297_126_b.jpg" 
-  },
+{
+  "Hotels": [
+    {
+      "id": 1,
+      "title": "Hôtel Sezz Paris",
+      "latitude": 48.856634,
+      "longitude": 2.285261,
+      "stars": 4.4,
+      "image_url1": "https://wa4.jetcdn.com/photos/hotel-sezz-paris/XlAPSJgX/bath-bedroom-elegant-hip.jpeg?w=970&h=600&dpr=1", 
+      "image_url2": "https://cdn.ostrovok.ru/t/1024x768/mec/hotels/1000000/10000/5300/5297/5297_126_b.jpg" 
+    },
 
-  {
-    "id": 2,
-    "title": "Sourire Boutique Hotel Particulier",
-    "latitude": 48.855035,
-    "longitude": 2.275533,
-    "stars": 4.7,
-    "image_url1": "https://t-ec.bstatic.com/images/hotel/max1024x768/128/128161518.jpg", 
-    "image_url2": "https://t-ec.bstatic.com/images/hotel/max1024x768/102/102639713.jpg" 
-  },
+    {
+      "id": 2,
+      "title": "Sourire Boutique Hotel Particulier",
+      "latitude": 48.855035,
+      "longitude": 2.275533,
+      "stars": 4.7,
+      "image_url1": "https://t-ec.bstatic.com/images/hotel/max1024x768/128/128161518.jpg", 
+      "image_url2": "https://t-ec.bstatic.com/images/hotel/max1024x768/102/102639713.jpg" 
+    },
 
-  {
-    "id": 3,
-    "title": "Hotel Le Carrosse",
-    "latitude": 48.834846,
-    "longitude": 2.284451,
-    "stars": 3.7,
-    "image_url1": "https://exp.cdn-hotels.com/hotels/12000000/11770000/11764400/11764315/11764315_3_z.jpg", 
-    "image_url2": "https://exp.cdn-hotels.com/hotels/12000000/11770000/11764400/11764315/11764315_4_z.jpg" 
-  },
+    {
+      "id": 3,
+      "title": "Hotel Le Carrosse",
+      "latitude": 48.834846,
+      "longitude": 2.284451,
+      "stars": 3.7,
+      "image_url1": "https://exp.cdn-hotels.com/hotels/12000000/11770000/11764400/11764315/11764315_3_z.jpg", 
+      "image_url2": "https://exp.cdn-hotels.com/hotels/12000000/11770000/11764400/11764315/11764315_4_z.jpg" 
+    },
 
-  {
-    "id": 4,
-    "title": "Hôtel Victor Hugo",
-    "latitude": 48.809102,
-    "longitude": 2.272002,
-    "stars": 2.8,
-    "image_url1": "https://images.trvl-media.com/hotels/1000000/70000/68600/68512/25d6f6f1_z.jpg", 
-    "image_url2": "https://exp.cdn-hotels.com/hotels/1000000/70000/68600/68512/68512_149_z.jpg" 
-  },
+    {
+      "id": 4,
+      "title": "Hôtel Victor Hugo",
+      "latitude": 48.809102,
+      "longitude": 2.272002,
+      "stars": 2.8,
+      "image_url1": "https://images.trvl-media.com/hotels/1000000/70000/68600/68512/25d6f6f1_z.jpg", 
+      "image_url2": "https://exp.cdn-hotels.com/hotels/1000000/70000/68600/68512/68512_149_z.jpg" 
+    },
 
-  {
-    "id": 5,
-    "title": "Hôtel Victor Hugo",
-    "latitude": 48.820305,
-    "longitude": 2.245311,
-    "stars": 4.4,
-    "image_url1": "https://s-ec.bstatic.com/images/hotel/max1024x768/140/14064082.jpg", 
-    "image_url2": "https://t-ec.bstatic.com/images/hotel/max1024x768/123/123893568.jpg" 
-  }
-]
+    {
+      "id": 5,
+      "title": "Hôtel Victor Hugo",
+      "latitude": 48.820305,
+      "longitude": 2.245311,
+      "stars": 4.4,
+      "image_url1": "https://s-ec.bstatic.com/images/hotel/max1024x768/140/14064082.jpg", 
+      "image_url2": "https://t-ec.bstatic.com/images/hotel/max1024x768/123/123893568.jpg" 
+    }
+  ]
+}
